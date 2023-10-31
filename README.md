@@ -1,12 +1,12 @@
-# Zachet-app-
-App for service Zaochnik.com 
+<p>Zachet-app-</p>
+<p>App for service Zaochnik.com&nbsp;</p>
+<hr>
+<p><strong>Stack:</strong></p>
+<p>SwiftUI, MVVM, OAuth, GCD, JSON, URLSession, BackgroundTask, WebView, PHAsset, KeyChain, JivoChat</p>
+<p><a href="https://apps.apple.com/by/app/zachet-помощь-студентам/id6468885323" target="_blank" rel="noopener noreferrer">App Store link </a></p>&nbsp;&nbsp;<p></p>
 
-![IPhone 14 Pro](https://github.com/thelast27/Zachet-app-/assets/102671476/c12aced5-6cd9-44c7-9e61-7a64d4e6edd4)
 
-![IPhone 14 Pro-2](https://github.com/thelast27/Zachet-app-/assets/102671476/b9856bb2-77a2-4bd3-9a3e-6ea989018fe3)
+![IPhone 14 Pro](https://github.com/thelast27/Zachet-app-/assets/102671476/3d9befdc-be1e-4c6f-a169-a16d45cbe19d) ![IPhone 14 Pro-4](https://github.com/thelast27/Zachet-app-/assets/102671476/a38d9b58-9539-43f3-a0f6-a3ab6ff50ec4) 
 
-![IPhone 14 Pro-3](https://github.com/thelast27/Zachet-app-/assets/102671476/77025f5f-a4d1-4828-ba06-ac15e2fab967)
 
-![IPhone 14 Pro-4](https://github.com/thelast27/Zachet-app-/assets/102671476/115aefea-e89a-4899-af3a-9d4f83008727)
 
-![Group 3](https://github.com/thelast27/Zachet-app-/assets/102671476/529396f8-723a-478d-994d-9dfae66ea2e6)
